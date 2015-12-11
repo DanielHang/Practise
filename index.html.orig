@@ -368,8 +368,13 @@ Picanha pork chop turkey, alcatra salami shank meatloaf doner meatball short loi
                     <div id="perspective-inner">Perspective</div>
                 </div>
             </article>
-			<article>Lets not do this</article>
+<<<<<<< HEAD
 			<article>This is a change</article>
+			<article>Lets not do this</article>
+=======
+			<article>This is another change</article>
+			<article>This is a change</article>
+>>>>>>> a5b95543f8f35029eb5497e7da6739757651a1dd
         </div>
         <div class="spacing"></div>
         <footer>
